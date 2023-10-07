@@ -1,5 +1,12 @@
 #include <iostream>
 
+void funcion () {
+    if (true) {
+        
+    }
+    
+}
+
 int main() {
     // Output "Hello, World!" to the console
     std::cout << "Hello, World!" << std::endl;
@@ -11,6 +18,7 @@ int main() {
 
     std::cout << "cambio en rama main" << std::endl;
 
+    //cambio para probar el git indicators
 
     // Return 0 to indicate successful execution
     return 0;
