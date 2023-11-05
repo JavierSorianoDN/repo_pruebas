@@ -6,6 +6,10 @@ int main() {
 
     std::cout << "commit 5 - linea quinta" << std::endl;
 
+    std::cout << "rama develop commit 1 - linea primera" << std::endl;
+
+    std::cout << "rama develop commit 0 - linea inicial" << std::endl;
+
     std::cout << "commit 4 - linea cuarta" << std::endl;
 
     std::cout << "commit 3 - linea tercera" << std::endl;
