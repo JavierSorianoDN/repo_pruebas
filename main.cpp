@@ -4,6 +4,8 @@
 
 int main() {
 
+    std::cout << "rama_poner_cout_nuevo" << std::endl;
+
     std::cout << "commit inicial" << std::endl;
 
     // Return 0 to indicate successful execution
