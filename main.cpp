@@ -4,6 +4,9 @@
 
 int main() {
 
+    std::cout << "comprobacion fetch" << std::endl;
+
+
     std::cout << "cambio 3 hecho desde una copia repo" << std::endl;
 
     std::cout << "cambio 2 hecho desde una copia repo" << std::endl;
