@@ -4,6 +4,8 @@
 
 int main() {
 
+    std::cout << "cambio hecho desde una copia repo" << std::endl;
+
     std::cout << "cout hecho en la rama main" << std::endl;
 
     std::cout << "segundo rama_poner_cout_nuevo" << std::endl;
