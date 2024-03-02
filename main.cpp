@@ -6,6 +6,8 @@ int main() {
 
     std::cout << "comprobacion fetch" << std::endl;
 
+    std::cout << "comprobacion citool" << std::endl;
+
 
     std::cout << "cambio 3 hecho desde una copia repo" << std::endl;
 
