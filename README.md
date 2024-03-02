@@ -1,3 +1,5 @@
+comprobando vscode para comparar ramas
+
 rama develop commit 2 - linea primera
 
 commit 5 - linea quinta
