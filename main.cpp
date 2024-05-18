@@ -4,7 +4,7 @@
 
 int main() {
 
-    std::cout << "commit inicial 3" << std::endl;
+    std::cout << "commit inicial 0" << std::endl;
 
     std::cout << "commit inicial new line" << std::endl;
 
