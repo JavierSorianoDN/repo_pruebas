@@ -6,7 +6,7 @@ int main() {
 
     std::cout << "commit inicial 0" << std::endl;
 
-    std::cout << "commit inicial new line" << std::endl;
+    std::cout << "commit inicial new line 0" << std::endl;
 
     std::cout << "commit en la rama rama_poner_cout_nuevo" << std::endl;
 
