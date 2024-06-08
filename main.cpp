@@ -2,7 +2,22 @@
 
 #include <iostream>
 
+void myFunc() {
+
+}
+
 int main() {
+
+    if (true) {
+        std::cout << "commit inicial 0" << std::endl;
+            if ((true)) {
+            }    
+    }
+
+    int nMainValue=0;
+
+
+
 
     std::cout << "commit inicial 0" << std::endl;
 
